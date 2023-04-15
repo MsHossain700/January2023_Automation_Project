@@ -100,5 +100,5 @@ public class Automation_AI07 extends ReusableAnnotations {
         String[] Message3 = message2.split(":");
         System.out.println("Total price is" + Message3[1]);
     }//end of Test 4
-
+//I added a new comment
 }//end of class
