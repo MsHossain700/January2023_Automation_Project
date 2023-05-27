@@ -3,9 +3,6 @@ package Day10_03262023;
 import ReusableLibrary.ReusableMethods;
 import org.openqa.selenium.WebDriver;
 
-import ReusableLibrary.ReusableMethods;
-import org.openqa.selenium.WebDriver;
-
 public class T1_Staples_ReusableMethods {
     public static void main(String[] args) throws InterruptedException {
         //set up the chrome driver
